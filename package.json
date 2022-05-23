@@ -1,0 +1,21 @@
+{
+  "name": "brandi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.51.0",
+    "swup": "^2.0.14"
+  },
+  "scripts": {"sass": "sass --watch sass/style.scss:css/style.css"},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/free-templates/brandi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/free-templates/brandi/issues"
+  },
+  "homepage": "https://gitlab.com/free-templates/brandi#readme"
+}
